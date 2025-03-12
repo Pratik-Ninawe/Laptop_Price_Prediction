@@ -19,8 +19,8 @@ This repository contains the analysis and machine learning model implementation 
 ## Getting Started
 To get started with this project, clone the repository and install the necessary dependencies:
 ```bash
-git clone https://github.com/burhanahmed1/LaptopPricing-MachineLearning-Analysis.git
-cd LaptopPricing-MachineLearning-Analysis
+git clone https://github.com/Pratik-Ninawe/Laptop_Price_Prediction.git
+cd Laptop_Price_Prediction
 pip install -r requirements.txt
 ```
 
